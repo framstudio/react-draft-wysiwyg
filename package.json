@@ -61,7 +61,7 @@
         "html-webpack-plugin": "^5.5.3",
         "immutable": "^4.3.0",
         "jsdom": "^22.1.0",
-        "mini-css-extract-plugin": "^0.9.0",
+        "mini-css-extract-plugin": "^2.9.4",
         "mocha": "^10.2.0",
         "postcss-loader": "^7.3.3",
         "precss": "^4.0.0",
